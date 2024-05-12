@@ -1,0 +1,7 @@
+Generating single epoch, starting clock 
+Phases, LOSs, PAs saved, took 0.002047300338745117 
+Generated model images, took 744.1054754257202 
+Saved true pol images, took 5.78256630897522 
+Created synthetic UVFITS files, took 226.91935849189758 
+Synthetic UV-data CLEANed, took 8.124451398849487 
+Pictures plotted, took 3.6084468364715576 

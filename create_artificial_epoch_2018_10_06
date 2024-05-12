@@ -1,0 +1,21 @@
+2018_10_06
+1.0
+/home/rtodorov/MHD_simulation/results/example_los_10.0_coneha_3.7_delta_0.0_T_20.0_phi0_0.000000
+/home/ilya/Downloads/1641+399
+0.59
+500
+300
+-2.0
+-1.0
+-90.0
+True
+Using template UVFITS:  /home/ilya/Downloads/1641+399/1641+399.u.2018_10_06.uvf
+<astropy.io.fits.hdu.groups.GroupsHDU object at 0x7fa072a4c5d0>
+Loaded image with total flux = 1.9210588934610353 Jy, shape = (300, 500)
+Scaling image x  1.0
+Loaded image with total flux = 0.09110976900544118 Jy, shape = (300, 500)
+Scaling image x  1.0
+Loaded image with total flux = -0.005845032070281334 Jy, shape = (300, 500)
+Scaling image x  1.0
+Loaded image with total flux = -0.0009980458244064018 Jy, shape = (300, 500)
+Scaling image x  1.0
